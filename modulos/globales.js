@@ -15,5 +15,5 @@ setImmediate( () => {
 
 console.log(global);
 console.log(process);
-console.log(__dirname);
-console.log(__filename);
+console.log(__dirname); //muestra la ruta de carpetas
+console.log(__filename); // muestra la ruta del archivo
